@@ -1,0 +1,40 @@
+/*common shared style*/
+
+/*Header style */
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  align-items: center;
+}
+nav li {
+  list-style: none;
+  margin-right: 50px;
+}
+.text-primary {
+  font-family: "Open Sans", sans-serif;
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+nav a {
+  text-decoration: none;
+}
+.btn-hireme {
+  width: 150px;
+  height: 64px;
+  border-radius: 5px;
+  border: none;
+  background: #fd6e0a;
+  color: white;
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 15px 25px;
+}
+.i {
+  color: #fd6e0a;
+}
