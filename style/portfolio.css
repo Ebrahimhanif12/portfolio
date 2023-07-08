@@ -198,3 +198,11 @@ section {
   text-align: center;
   margin-top: 20px;
 }
+/* --------------------footer------------ */
+footer {
+  display: flex;
+  justify-content: center;
+  background: #fff8f3;
+  padding: 130px 200px;
+  margin-top: 100px;
+}
